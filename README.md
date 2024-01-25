@@ -13,7 +13,7 @@
 - в своей ветке `@username/bugfix/order_pls_h00die` добавляем свой ник в файле `tshirts_h00dies.md`
 - кидаем MR в нашу репку, и донатим `$$$$`
 - ОЖИДАЕМ АППРУВЧИКА
-- получаем [h00die](https://www.instagram.com/1tcult/) <- тут
+- получаем [h00die](https://www.instagram.com/1t_cult/) <- тут
 - радуемся жизни
 
 # Нашли ошибку или хотите оставить фидбек?
